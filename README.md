@@ -10,7 +10,7 @@ The project is implemented using JSON, NoSQL database and File Handling.
 3. Products.json: This file has details of all the products in the inventory.
 4. Sales.jsonL This file has transaction history of all the purchases.
 
-### Feature
+### Features 
 ### In Adding Products file
 1. Add new items into inventory if the product doesn't already exist in Inventory.
 2. Update the number of units available for a product if the product already exists in inventory.
