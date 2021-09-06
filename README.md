@@ -4,13 +4,13 @@ This repository is having all the codes used in AI/ML Skill India scholarship as
 ### About the repository
 The project is implemented using JSON, NoSQL database and File Handling.
 
-###Files 
+### Files 
 1. Add products: This file contains code for adding or updating products in the repository.
 2. Purchasing: This file contains code for nuying products form inventory.
 3. Products.json: This file has details of all the products in the inventory.
 4. Sales.jsonL This file has transaction history of all the purchases.
 
-###Feature
+### Feature
 ### In Adding Products file
 1. Add new items into inventory if the product doesn't already exist in Inventory.
 2. Update the number of units available for a product if the product already exists in inventory.
