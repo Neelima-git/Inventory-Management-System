@@ -1,5 +1,5 @@
 # Inventory-Management-System
-This repository contains all the back-end code used for developing Inventory Management System which is assigned as a part of AI/ML Skill India scholarship. 
+This repository contains all the back-end code used for developing Inventory Management System.
 
 ### About the repository
 The project is implemented using Python, NoSQL database(JSON) and File Handling.
