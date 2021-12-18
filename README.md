@@ -13,9 +13,9 @@ The project is implemented using Python, NoSQL database(JSON) and File Handling.
 ### Features for adding products to inventory
 1. Add new items into inventory if the product doesn't already exist in Inventory.
 2. Update the number of units available for a product if the product already exists in inventory.
-3. Products have 7 attributs that include product_id, product_name, MRP, Net Weight, Number of units available, Manufacture date and Expire date. 
+3. Products have 7 attributes that include product_id, product_name, MRP, Net Weight, Number of units available, Manufacture date and Expire date. 
 
-### Features for purchasing products by the user
+### Features for purchasing products by user
 1. Check for the user enquired product in the inventory.
     1. If product exists proceed further.
     2. If no, inform user that the product isn't available in inventory.
